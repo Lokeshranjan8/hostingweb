@@ -1,10 +1,8 @@
-/* body{
-    background-color: rebeccapurple;
-} */
+body{
+    background-color: rgb(77, 218, 211);
+}
 
-#cv-form{
-    /*display: none;-->*/
- }
+
  #cv-template{
      display: none;
  }
@@ -18,6 +16,3 @@
      background-color: aqua;
  }
  
- .newground{
-     background-color: rgb(42, 122, 165);
- }
